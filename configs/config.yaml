@@ -4,5 +4,5 @@ db:
     username: "root"
     host: "localhost"
     port: "5432"
-    dbname: "postgres"
+    dbname: "todo"
     sslmode: "disable"
